@@ -1,0 +1,30 @@
+[
+{
+    "model": "mobile_coverage.operator",
+    "pk": "20801",
+    "fields": {
+        "name": "Orange"
+    }
+},
+{
+    "model": "mobile_coverage.operator",
+    "pk": "20810",
+    "fields": {
+        "name": "SFR"
+    }
+},
+{
+    "model": "mobile_coverage.operator",
+    "pk": "20815",
+    "fields": {
+        "name": "Free"
+    }
+},
+{
+    "model": "mobile_coverage.operator",
+    "pk": "20820",
+    "fields": {
+        "name": "Bouygue"
+    }
+}
+]
