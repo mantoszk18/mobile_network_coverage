@@ -4,6 +4,8 @@
 
 ### To run the project
 
+* Create a virtualenv to work in
+* In the virtualenv install all the necessary libraries: ```pip install -r requirements.txt```
 * Create a local_settings.py file in the mobile_network_coverage folder
 * These local settings should at least hold SECRET_KEY, DEBUG and DATABASE settings tailored to your needs for example:
 
