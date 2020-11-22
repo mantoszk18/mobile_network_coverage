@@ -35,4 +35,4 @@ class FindNetworkCoverageView(views.APIView):
         return processor.get_cities()
 
     def aggregate_networks(self, networks, all_networks):
-        return { network: 'True' if network in networks else 'False' for network in all_networks}
+        return { network: True if network in networks else False for network in all_networks}
